@@ -1,0 +1,18 @@
+body{
+  background: rgb(0, 34, 60);
+      background: -moz-linear-gradient(
+        48deg,
+        rgba(246 251 255) 0%,
+        rgba(167, 209, 241, 1) 100%
+      );
+      background: -webkit-linear-gradient(
+        48deg,
+        rgba(246 251 255) 0%,
+        rgba(167, 209, 241, 1) 100%
+      );
+      background: linear-gradient(
+        48deg,
+        rgba(246 251 255) 0%,
+        rgba(167, 209, 241, 1) 100%
+      );
+}
